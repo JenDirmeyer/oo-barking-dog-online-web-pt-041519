@@ -1,1 +1,4 @@
-class# Your code goes here!
+class Dog 
+  initialize(name, bark)
+  
+end  
